@@ -1,1 +1,1 @@
-
+Using images from ImageNet.
